@@ -1,4 +1,5 @@
 # Menjumlahkan setiap angka pada Nomor Handphone
+Introduction to programming
 
     package com.ol.binus;
     import java.util.Scanner;
