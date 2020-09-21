@@ -1,13 +1,16 @@
 # SumPhoneNumber
 Menjumlahkan setiap angka pada Nomor Handphone
 
+Intoduction to Programming
+OL#2
+
 package com.ol.binus;
 import java.util.Scanner;
 
 public class Main {
     /** Metode Utama */
     public static void main(String[] args) {
-       
+        // Menciptakan suatu Scanner
         Scanner input = new Scanner(System.in);
 
         // Meminta user untuk input nohp
